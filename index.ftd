@@ -1,5 +1,5 @@
 -- import: fifthtry.github.io/doc-site as ds
--- import: gargajit.github.io/expander/assets
+-- import: fastn-community.github.io/expander/assets
 -- import: fifthtry.github.io/forest-cs
 -- import: fifthtry.github.io/admonitions as cbox
  
@@ -13,7 +13,7 @@ This box has a `header area` and a `body area`.
 One can expand or collapse the body area when clicked on the
 header area. It takes user defined content or it also has a default text.
 
-You can view the source of this repo at: https://github.com/gargajit/expander/
+You can view the source of this repo at: https://github.com/fastn-community/expander/
 
 -- ds.h1: Demo
 
