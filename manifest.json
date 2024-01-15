@@ -1,0 +1,51 @@
+{
+  "files": {
+    "images/uparrow.png": {
+      "name": "images/uparrow.png",
+      "hash": "29A08DFA094DA863D89CDAC77DD2B0D5B08F4C1D350077004C90DCBAA03930C2",
+      "size": 5473
+    },
+    "images/downarrow.png": {
+      "name": "images/downarrow.png",
+      "hash": "E781303D66001D3D73431BB3C89119FA54F684E597533A83FA3B7A4C62D871D3",
+      "size": 5122
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "hash": "64453566A26F9FC090AAF80AF7366C5ECE55FE96B8792E4C76F656702F362DA4",
+      "size": 3154
+    },
+    "doc-site-example.png": {
+      "name": "doc-site-example.png",
+      "hash": "611E21D16829D0FACDB5D2C21ABA2ADF95BF7359DAFA16FCE1351F0AC0E5C44B",
+      "size": 90059
+    },
+    "images/uparrow-dark.png": {
+      "name": "images/uparrow-dark.png",
+      "hash": "ED256577B541F24C004FB92CAD104F18F585B33742E1EB2EDC0322868C85628A",
+      "size": 6307
+    },
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "hash": "1DC0D23C61674F76541714BA8990F60F7365B1E552219719FF0369DB045793E1",
+      "size": 310
+    },
+    "images/logo.svg": {
+      "name": "images/logo.svg",
+      "hash": "EB448956B97334742D603F3D8BAF489EAF5AFBA8C2828324E9D10676D839D622",
+      "size": 8445
+    },
+    "images/downarrow-dark.png": {
+      "name": "images/downarrow-dark.png",
+      "hash": "2E641B375669DC0C2216A21F5323C108E2FC9CD5D58F4FF73A2D036E6103591B",
+      "size": 6324
+    },
+    "README.md": {
+      "name": "README.md",
+      "hash": "191F412CA68B858B5187047C6E4845AFDAB0F59BA674A896EAB8E3FA0A0DC362",
+      "size": 74
+    }
+  },
+  "zip_url": "https://github.com/fastn-community/expander/archive/c444b703da7f89dfdc75ab1d820b5a6731402d0b.zip",
+  "checksum": "6C821F01F584278ACDE754147FB636F01E7E34C1BF4DE6821013F7E55137D3AF"
+}
