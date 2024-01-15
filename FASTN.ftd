@@ -1,6 +1,6 @@
 -- import: fastn
 
--- fastn.package: gargajit.github.io/expander
+-- fastn.package: fastn-community.github.io/expander
 
 -- fastn.dependency: fifthtry.github.io/doc-site
 -- fastn.dependency: fifthtry.github.io/forest-cs
